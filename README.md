@@ -1,4 +1,4 @@
-# Seja Bem-Vindo, meu nome é Ronald! 👋
+# Seja Bem-Vindo, meu nome é Ronald!
 
 Estudante de ADS focado em desenvolvimento de software. Atualmente explorando as possibilidades do ecossistema Fullstack.
 ---
@@ -26,11 +26,13 @@ Estudante de ADS focado em desenvolvimento de software. Atualmente explorando as
 ### 📊 Atividade no GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afton06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afton06&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+### 📩 Contato
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544999630374)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldvernek1234@gmail.com)
