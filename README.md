@@ -23,11 +23,10 @@ Estudante de ADS focado em desenvolvimento de software. Atualmente explorando as
 
 ---
 
-### 📊 Atividade no GitHub
+### 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afton06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afton06&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Afton06&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
